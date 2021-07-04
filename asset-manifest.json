@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JGrandbit/WhereYaAt/static/css/main.9f5fcd6f.chunk.css",
-    "main.js": "/JGrandbit/WhereYaAt/static/js/main.e9891a86.chunk.js",
-    "main.js.map": "/JGrandbit/WhereYaAt/static/js/main.e9891a86.chunk.js.map",
-    "runtime-main.js": "/JGrandbit/WhereYaAt/static/js/runtime-main.081e9ef6.js",
-    "runtime-main.js.map": "/JGrandbit/WhereYaAt/static/js/runtime-main.081e9ef6.js.map",
-    "static/js/2.ca0ed508.chunk.js": "/JGrandbit/WhereYaAt/static/js/2.ca0ed508.chunk.js",
-    "static/js/2.ca0ed508.chunk.js.map": "/JGrandbit/WhereYaAt/static/js/2.ca0ed508.chunk.js.map",
-    "static/js/3.a2a711dc.chunk.js": "/JGrandbit/WhereYaAt/static/js/3.a2a711dc.chunk.js",
-    "static/js/3.a2a711dc.chunk.js.map": "/JGrandbit/WhereYaAt/static/js/3.a2a711dc.chunk.js.map",
-    "index.html": "/JGrandbit/WhereYaAt/index.html",
-    "static/css/main.9f5fcd6f.chunk.css.map": "/JGrandbit/WhereYaAt/static/css/main.9f5fcd6f.chunk.css.map",
-    "static/js/2.ca0ed508.chunk.js.LICENSE.txt": "/JGrandbit/WhereYaAt/static/js/2.ca0ed508.chunk.js.LICENSE.txt"
+    "main.css": "/whereyaat/static/css/main.9f5fcd6f.chunk.css",
+    "main.js": "/whereyaat/static/js/main.e9891a86.chunk.js",
+    "main.js.map": "/whereyaat/static/js/main.e9891a86.chunk.js.map",
+    "runtime-main.js": "/whereyaat/static/js/runtime-main.ace09862.js",
+    "runtime-main.js.map": "/whereyaat/static/js/runtime-main.ace09862.js.map",
+    "static/js/2.ca0ed508.chunk.js": "/whereyaat/static/js/2.ca0ed508.chunk.js",
+    "static/js/2.ca0ed508.chunk.js.map": "/whereyaat/static/js/2.ca0ed508.chunk.js.map",
+    "static/js/3.a2a711dc.chunk.js": "/whereyaat/static/js/3.a2a711dc.chunk.js",
+    "static/js/3.a2a711dc.chunk.js.map": "/whereyaat/static/js/3.a2a711dc.chunk.js.map",
+    "index.html": "/whereyaat/index.html",
+    "static/css/main.9f5fcd6f.chunk.css.map": "/whereyaat/static/css/main.9f5fcd6f.chunk.css.map",
+    "static/js/2.ca0ed508.chunk.js.LICENSE.txt": "/whereyaat/static/js/2.ca0ed508.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.081e9ef6.js",
+    "static/js/runtime-main.ace09862.js",
     "static/js/2.ca0ed508.chunk.js",
     "static/css/main.9f5fcd6f.chunk.css",
     "static/js/main.e9891a86.chunk.js"
