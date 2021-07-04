@@ -1,0 +1,39 @@
+header {
+    padding: 70px;
+    background-color: darkcyan;
+    width: 100%;
+    color: black;
+    text-align: center;
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: black;
+}
+
+form {
+    padding: 20px;
+    width: 100%;
+    background-color:rgba(255, 217, 0, 0.865);
+}
+
+input {
+    font-size:larger;
+    width: 30%;
+}
+
+th {
+    font-size: larger;
+    cursor: pointer;
+    text-align: center;
+    width: 30%;
+
+}
+
+table {
+    background-color:blanchedalmond;
+    width: 100%;
+    color: black;
+    text-align:inherit;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
